@@ -1,0 +1,6 @@
+{
+  "name": "Masterpiece Studio",
+  "description": "An all-in-one unified workspace combining task Kanban, interactive visual canvas, smart document editor, code sandbox, and AI asset generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
